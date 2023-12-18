@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Bilal
-- 👀 I’m interested in Coding
+- 👀 Coding is my passion
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Fluuter Projects
 - 📫 Reach me out through email ---> bafridi899@gmail.com
